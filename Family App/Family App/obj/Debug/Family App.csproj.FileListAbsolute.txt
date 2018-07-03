@@ -1,0 +1,304 @@
+c:\users\dryloffa\source\repos\Family App\Family App\bin\Debug\Family App.dll
+c:\users\dryloffa\source\repos\Family App\Family App\bin\Debug\Family App.pdb
+c:\users\dryloffa\source\repos\Family App\Family App\bin\Debug\Family_App.Family_App.apk
+c:\users\dryloffa\source\repos\Family App\Family App\bin\Debug\Family_App.Family_App-Signed.apk
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\Family App.csproj.CoreCompileInputs.cache
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\Family App.dll
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\Family App.pdb
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\android\bin\Family_App.Family_App.apk
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\values\colors.xml
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\values\ic_launcher_background.xml
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\values\strings.xml
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\values\styles.xml
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\R.cs.flag
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\R.txt
+c:\users\dryloffa\source\repos\Family App\Family App\obj\Debug\uploadflags.txt
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\layout\login.xml
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\layout\createaccount.xml
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\layout\calender.xml
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\layout\grocerylist.xml
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\layout\mainpage.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\Family App.dll
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\Family App.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\Family_App.Family_App.apk
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\Family_App.Family_App-Signed.apk
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\Family App.csprojAssemblyReference.cache
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\Family App.csproj.CoreCompileInputs.cache
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\Family App.dll
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\Family App.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\bin\Family_App.Family_App.apk
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\layout\login.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\values\colors.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\values\strings.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\values\styles.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\layout\createaccount.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\layout\calender.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\layout\grocerylist.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\res\layout\mainpage.xml
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\R.cs.flag
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\R.txt
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\uploadflags.txt
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\System.Xml.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\bin\Debug\Family App.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\Family App.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\Family App.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Final Project Copies\7\Family App\Family App\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\Family App.csprojAssemblyReference.cache
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\Mono.Android.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\mscorlib.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Core.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Xml.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Net.Http.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Data.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Numerics.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Transactions.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Web.Services.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\Mono.Security.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Core.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Data.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\linksrc\Family App.dll.mdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\bin\Debug\Family App.dll.mdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\Family App.dll.mdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Core.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Data.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\mipmap-hdpi\bk.jpg
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\mipmap-mdpi\bk.jpg
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\mipmap-xhdpi\bk.jpg
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\bk.jpg
+C:\Users\DRYLOFFA\source\repos\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\bk.jpg
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Family App.dll
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Family App.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Family_App.Family_App.apk
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Family_App.Family_App-Signed.apk
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\Family App.csprojAssemblyReference.cache
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\Family App.csproj.CoreCompileInputs.cache
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\Family App.dll
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\Family App.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\bin\Family_App.Family_App.apk
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\layout\login.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\values\colors.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\values\strings.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\values\styles.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\layout\createaccount.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\layout\calender.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\layout\grocerylist.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\layout\mainpage.xml
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-hdpi\bk.jpg
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-mdpi\bk.jpg
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xhdpi\bk.jpg
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxhdpi\bk.jpg
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\res\mipmap-xxxhdpi\bk.jpg
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\R.cs.flag
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\R.txt
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\uploadflags.txt
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\System.Xml.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Family App.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\Family App.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\Family App.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\bin\Debug\Family App.dll
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Family App\Family App\obj\Debug\linksrc\Family App.dll.mdb
